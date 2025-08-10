@@ -72,4 +72,4 @@ body{ background:var(--bg); color:var(--text); }
 .btn.alt{ background:linear-gradient(180deg, rgba(180,83,9,.12), rgba(180,83,9,.04)); border-color:#7c4a0a; }
 
 /* Use one global hero image on all pages */
-.hero .bg{ background-image:url('/images/hero.jpg') !important; filter:brightness(.75); }
+.hero .bg{ background-image:url('images/hero.jpg') !important; filter:brightness(.75); }
